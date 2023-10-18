@@ -110,7 +110,8 @@ public abstract class Conta extends Object implements Comparable<Conta> {
 
     @Override
     public String toString() {
-        return "Numero: " + this.numero + ", Agencia: " + this.agencia + ", Saldo: " + this.saldo;
+        return "Numero: " + this.numero + ", Agencia: " + this.agencia + ", Saldo: " + this.saldo + "Titular: "
+                + this.titular.getNome();
     }
 
 }
