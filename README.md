@@ -1,6 +1,6 @@
 # Java e java.util: Coleções, Wrappers e Lambda expressions
 
-Código desenvolvido a partir do curso - [_Java e java.util: Coleções, Wrappers e Lambda expressions_](https://alura.com.br/course/java-excecoes) da escola Alura
+Código desenvolvido a partir do curso - [_Java e java.util: Coleções, Wrappers e Lambda expressions_](https://alura.com.br/course/java-util-lambdas) da escola Alura
 
 <br>
 
